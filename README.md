@@ -24,3 +24,10 @@ CSS handles styling for both light and dark modes
 │── index.html
 │── style.css
 │── script.js
+
+
+🎯 Future Improvements
+Save theme preference using LocalStorage
+Add more UI components
+Improve animations
+Add system theme detection
