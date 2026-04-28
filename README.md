@@ -1,7 +1,7 @@
 # Dark-Mode-Toggle-UI
 A simple and clean website demonstrating a light and dark mode toggle with smooth transitions using HTML, CSS, and JavaScript.
 
-Live Demo -
+Live Demo -https://hussam2717.github.io/Dark-Mode-Toggle-UI/
 
 🚀 Features
 🌗 Toggle between Light & Dark themes
