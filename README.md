@@ -14,3 +14,8 @@ Live Demo -
 HTML5
 CSS3
 JavaScript
+
+⚙️ How It Works
+A toggle switch is used to change themes
+JavaScript adds/removes a dark class on the body
+CSS handles styling for both light and dark modes
