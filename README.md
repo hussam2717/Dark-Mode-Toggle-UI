@@ -9,3 +9,8 @@ Live Demo -
 📱 Responsive design
 🧩 Clean card-based layout
 🎯 Beginner-friendly project
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
